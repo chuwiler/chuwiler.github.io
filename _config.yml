@@ -1,3 +1,4 @@
 theme: minima
-name: Ornithologie pour les Nuls/les
-url: 
+minima: 
+  name: Ornithologie pour les Nuls/les
+  url: 
